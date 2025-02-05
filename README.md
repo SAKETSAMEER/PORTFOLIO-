@@ -39,7 +39,7 @@ This project is a personal portfolio website designed to showcase the skills, pr
 
 ## 🔗 Live Demo
 
-[Portfolio Website Live](samsak-portfolio.netlify.app) 
+[Portfolio Website Live]([samsak-portfolio.netlify.app](https://samsak-portfolio.netlify.app/)) 
 
 ## 📥 How to Use
 
